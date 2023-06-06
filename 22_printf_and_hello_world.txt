@@ -1,0 +1,32 @@
+
+Section 03: printf and Hello World
+------------------------------------------------------------------------
+
+main.c -----> Compiler -----> main.i
+
+
+Compiler
+
+	- Pre-processing stage
+	
+	- All pre-processing directives will be resolved
+
+
+main.s -----> Compiler -----> main.o
+
+Compiler
+
+	- Assembler stage
+
+	- Assembly level mnemonics are converted into
+	  opcodes (machine codes for instructions)
+
+
+Note:
+
+	- To get extra files, add Extra Compiler Flags 
+	  -save-temps
+
+
+
+
