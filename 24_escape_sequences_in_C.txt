@@ -1,0 +1,29 @@
+
+Section 03: Escape Sequences in 'C'
+---------------------------------------------------------------
+
+Escape Sequences	Meaning
+
+\'			Single Quote
+\"			Double Quote
+\\			Backslash
+\0			Null
+\a			Bell
+\b			Backspace
+\f			Form Feed
+\n			Newline
+\r			Carriage Return
+\t			Horizontal Tab
+\v			Vertical Tab
+
+
+Difference Between \n and \r
+
+	\n : moves the cursor to the beginning
+	of the new line vertically
+
+	\r : moves the cursor to the beginning
+	of the current line horizontally
+
+
+
