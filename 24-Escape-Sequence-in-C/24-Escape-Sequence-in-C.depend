@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1686019270 source:c:\users\matt\desktop\embedded-c\my-workspace\host\section-03\24-escape-sequence-in-c\main.c
+	<stdio.h>
+	<stdlib.h>
+
