@@ -1,0 +1,57 @@
+
+Section 03: Commenting in 'C'
+-------------------------------------------------------------------------
+
+Comments I 
+
+	Generally Comments are used to provide the description
+	or documentation about the code you have written
+
+	Through commenting, you can mention important notes,
+	briefly explain behavior of the code, and other useful
+	details
+
+	Comments help the developer understand the logic/algorithm
+	of the code if he/she revisits it after a long time
+
+	You can mention the comments anywhere you want in the program
+	and your comments will be ignored by the compiler
+
+	Comments do not affect program or they do not consume any
+	program memory space
+
+	They are not part of the final executable generated
+	
+	It is there just for documentation purposes
+
+
+Comments II
+
+	In C, there are two types of comments:
+
+		Single line comment
+
+		Multi-line comment
+	
+	Single line comments
+
+		Single line comments can be provided using //.......
+
+	Multi-line comments
+
+		Multiple line comments can be provided using
+		/*................*/
+
+
+Multi-line Comments Example
+
+	/* 
+	   C standard library header file inclusion
+	   This is comment line 1
+	   This is comment line 2
+	   This is comment line 3
+	   This is comment line 4
+	*/
+
+
+
