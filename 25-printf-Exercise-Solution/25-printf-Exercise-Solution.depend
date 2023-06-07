@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1686098600 source:c:\users\matt\desktop\embedded-c\my-workspace\host\section-03\25-printf-exercise-solution\main.c
+	<stdio.h>
+	<stdlib.h>
+
